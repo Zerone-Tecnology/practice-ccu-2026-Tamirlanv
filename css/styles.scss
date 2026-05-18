@@ -1,0 +1,33 @@
+@import
+  'normalize',
+  'fonts',
+  'mixins',
+  'media',
+  'variables',
+  'utils',
+  'globals';
+
+@import
+  'blocks/header',
+  'blocks/button',
+  'blocks/burger-button',
+  'blocks/hero',
+  'blocks/section',
+  'blocks/services',
+  'blocks/service-card',
+  'blocks/grid',
+  'blocks/puddle-bg',
+  'blocks/banner',
+  'blocks/studies',
+  'blocks/process',
+  'blocks/team',
+  'blocks/pagination',
+  'blocks/review-card',
+  'blocks/reviews',
+  'blocks/contact-us',
+  'blocks/radio',
+  'blocks/radios',
+  'blocks/field',
+  'blocks/footer',
+  'blocks/socials',
+  'blocks/subscribe-form';
