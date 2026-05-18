@@ -1,0 +1,22 @@
+{
+  "name": "practice-ccu-2026-tamirlanv",
+  "version": "1.0.0",
+  "description": "Разработать адаптивную посадочную страницу (Landing Page) для регистрации участников на технологический Хакатон. Работа направлена на освоение семантической верстки, принципов адаптивного дизайна и работы с системой контроля версий Git.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch css/styles.scss:css/styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zerone-Tecnology/practice-ccu-2026-Tamirlanv.git"
+  },
+  "keywords": [],
+  "author": "Tamirlanv",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Zerone-Tecnology/practice-ccu-2026-Tamirlanv/issues"
+  },
+  "homepage": "https://github.com/Zerone-Tecnology/practice-ccu-2026-Tamirlanv#readme"
+}
